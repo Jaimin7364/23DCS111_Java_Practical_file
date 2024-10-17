@@ -11,6 +11,6 @@ public class practical_11{
         String lowercase = st.toLowerCase();
         System.out.println("Lowercase of the string is: " + lowercase);
 
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
