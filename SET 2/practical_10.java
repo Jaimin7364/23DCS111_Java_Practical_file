@@ -24,6 +24,6 @@ public class practical_10 {
         String sortedString = new String(charArray);
         System.out.println("Sorted string is: " + sortedString);
 
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
