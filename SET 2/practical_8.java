@@ -19,6 +19,6 @@ public class practical_8 {
         System.out.println("Number 9's in arr1 :" + arr_count9(arr1));
         System.out.println("Number 9's in arr2 :" + arr_count9(arr2));
         System.out.println("Number 9's in arr3 :" + arr_count9(arr3));
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
