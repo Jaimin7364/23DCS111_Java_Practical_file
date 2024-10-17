@@ -18,6 +18,6 @@ public class practical_7 {
         for (int i = 0; i < b;i++) {
             System.out.print(st2.substring(0, 3));
         }
-        System.out.println("\n23DCS092_Shubh");
+        SSystem.out.println("23DCS111_jaimin raval");
     }
 }
