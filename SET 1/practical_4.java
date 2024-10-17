@@ -18,7 +18,7 @@ public class practical_4 {
             sum = sum + ex[i];
         }
         System.out.println("Total expenses of 30 Days is " + sum);
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
             
         }
 
