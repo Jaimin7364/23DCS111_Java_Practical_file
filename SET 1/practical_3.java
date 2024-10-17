@@ -27,6 +27,6 @@ public class practical_3 {
         System.out.println("Speed 2 " + speed2);
         System.out.println("Speed 3 " + speed3);
 
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
