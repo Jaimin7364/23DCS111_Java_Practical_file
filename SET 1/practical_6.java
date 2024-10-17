@@ -16,6 +16,6 @@ class practical_6 {
             n = sum;
             
         }
-        System.out.println("\n23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
