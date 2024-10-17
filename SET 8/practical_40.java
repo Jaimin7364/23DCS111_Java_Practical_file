@@ -18,6 +18,6 @@ public class practical_40 {
         for (Map.Entry<String, Integer> entry : entrySet) {
             System.out.println(entry.getKey() + ": " + entry.getValue());
         }
-        System.out.println("23DCS092_Shubh");
+       System.out.println("23DCS111_jaimin raval");
     }
 }

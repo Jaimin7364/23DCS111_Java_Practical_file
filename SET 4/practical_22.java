@@ -8,7 +8,7 @@ public class practical_22 {
         int divisor = sc.nextInt();
         int x = my_calculator.divisor_sum(divisor);
         System.out.println("The sum of Divisor :" + x);
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
 

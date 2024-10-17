@@ -3,7 +3,7 @@ public class practical_34 {
         RandomThread randomThread = new RandomThread();
         randomThread.start();
 
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
 

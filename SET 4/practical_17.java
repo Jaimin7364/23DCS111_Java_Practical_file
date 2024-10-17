@@ -7,7 +7,7 @@ public class practical_17 {
         child.printParent();
         child.printChild();
 
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
     
 }

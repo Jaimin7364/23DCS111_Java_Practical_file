@@ -20,6 +20,6 @@ public class practical_32{
         Thread thread = new Thread(helloRunnable);
         thread.start();
 
-        System.out.println("\n23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }

@@ -5,7 +5,7 @@ public class practical_20 {
         s1.print2();
         s1.print4();
 
-        System.out.println("23DCS092_Shubh");
+       System.out.println("23DCS111_jaimin raval");
     }
 
 }

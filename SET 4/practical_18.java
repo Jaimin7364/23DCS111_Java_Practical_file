@@ -55,7 +55,7 @@ public class practical_18 {
         manager.printSalary();
         System.out.println("Department: " + manager.getDepartment());
 
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
     
 }

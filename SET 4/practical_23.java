@@ -8,7 +8,7 @@ public class practical_23 {
 
         cirSign.display();
         recSign.display();
-        System.out.println("23DCS092_Shubh");
+       System.out.println("23DCS111_jaimin raval");
     }
 }
 
