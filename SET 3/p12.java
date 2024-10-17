@@ -20,6 +20,6 @@ public class p12{
             
             System.out.println("The amount in rupees is: "+rupees);
         }
-        System.out.println("23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 }
