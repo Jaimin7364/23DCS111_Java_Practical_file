@@ -25,7 +25,7 @@ public class practical_9 {
         obj.double_char(st);
         obj.double_char(st1);
         obj.double_char(st2);
-        System.out.println("\n23DCS092_Shubh");
+        System.out.println("23DCS111_jaimin raval");
     }
 
 }
